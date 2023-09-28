@@ -1,0 +1,24 @@
+From bdf9b097d5ce47d9b916999a19f00fd6d841d725 Mon Sep 17 00:00:00 2001
+From: Oleksandr Tuleninov <talextu@gmail.com>
+Date: Sun, 29 Sep 2024 22:50:08 +0300
+Subject: [PATCH] Updated and commited firstFile.txt file, modify two lines.
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 073514d..d684d52 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line 1 - point 1
+-Line 2 - point 1
++Line 1 - point 7
++Line 2 - point 7
+ Line 3 - point 1
+ Line 4 - point 1
+ Line 5 - point 1
+-- 
+2.45.2.windows.1
+
