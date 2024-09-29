@@ -1,7 +1,7 @@
 Line 1 - point 7
 Line 2 - point 7
-Line 3 - point 1
-Line 4 - point 1
+Line 3 - point 8
+Line 4 - point 8
 Line 5 - point 1
 Line 6 - point 1
 Line 7 - point 1
