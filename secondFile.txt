@@ -1,5 +1,7 @@
 Line 1 - point 5 
 Line 2 - point 5
+Line 1 - point 4
+Line 2 - point 4
 Line 3 - point 2
 Line 4 - point 2
 Line 5 - point 2
