@@ -1,0 +1,10 @@
+Line 1 - point 1
+Line 2 - point 1
+Line 3 - point 1
+Line 4 - point 1
+Line 5 - point 1
+Line 6 - point 1
+Line 7 - point 1
+Line 8 - point 1
+Line 9 - point 1
+Line 10 - point 1
